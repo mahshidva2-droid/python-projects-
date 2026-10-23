@@ -12,4 +12,4 @@ while i!=secret:
     elif i>secret:
         print("koochak tar")
 print("afarin peyda kardi")
-print("tedad hads ha:  "k,)
+print(k,"tedad hads ha:  ")
